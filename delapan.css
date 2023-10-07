@@ -4,7 +4,8 @@
     text-decoration: none;
 }
 body{
-    background-color: rgb(238, 238, 150);;
+    background-color: rgb(238, 238, 150);
+    height: 100vh;
 }
 .atas{
     background-color: #191919;
